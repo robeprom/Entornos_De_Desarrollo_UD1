@@ -1,3 +1,5 @@
+COMPAÑEROS - PALABRA DEL DÍA
+
 # Tarea Módulo 1
 
 ## Reconocimiento de Elementos en el Desarrollo de un Programa Informático
